@@ -62,7 +62,7 @@ Heute habe ich eher langsam gearbeitet, da ich mich nebenbei auch etwas auf die 
 --
 
 
-### Planung 28.08.2026
+### Planung 11.09.2026
 - [ ] 320_1300_LA_Basisklasse.docx
 - [ ] 320_1310_LA_Hierarchie.docx
 - [ ] Projekt idee finden und starten
