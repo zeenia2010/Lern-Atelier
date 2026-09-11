@@ -66,7 +66,9 @@ Heute habe ich eher langsam gearbeitet, da ich mich nebenbei auch etwas auf die 
 - [ ] 320_1300_LA_Basisklasse.docx
 - [ ] 320_1310_LA_Hierarchie.docx
 - [ ] Projekt idee finden und starten
-- [ ] 
+
+Ich würde ein Spiel programmieren, bei dem ein zufälliges Wort ausgewählt wird und der Spieler es durch einzelne Buchstaben erraten muss. Bei falschen Buchstaben verliert man Versuche. Im Modul 322 konnte ich auch Kapitel 3 fast abschliessen ich muss nur noch die Probeprüfung machen.  
+
 
 
 
