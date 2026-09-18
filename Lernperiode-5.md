@@ -69,6 +69,12 @@ Heute habe ich eher langsam gearbeitet, da ich mich nebenbei auch etwas auf die 
 
 Ich würde ein Spiel programmieren, bei dem ein zufälliges Wort ausgewählt wird und der Spieler es durch einzelne Buchstaben erraten muss. Bei falschen Buchstaben verliert man Versuche. Im Modul 322 konnte ich auch Kapitel 3 fast abschliessen ich muss nur noch die Probeprüfung machen.  
 
+### Planung 18.09.2026
+- [ ] M320 Kapitel 4 beenden  
+- [ ] M322 Projekt weiterarbeiten   
+- [ ] M320 bis Kapitel 4 zusammenfassen 
+
+ 
 
 
 
