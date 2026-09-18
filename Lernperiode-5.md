@@ -74,7 +74,8 @@ Ich würde ein Spiel programmieren, bei dem ein zufälliges Wort ausgewählt wir
 - [ ] M322 Projekt weiterarbeiten   
 - [ ] M320 bis Kapitel 4 zusammenfassen 
 
- 
+Ich konnte Kapitel 4 im Modul 320 mit dem Nachweis beenden. Danach habe ich die Kapitel davor nochmals angeschaut und die wichtigsten Begriffe zusammengefasst. Ich bin bis Kapitel 3 gekommen. Heute habe ich eher langsam gearbeitet, weil ich müde war. Beim Zusammenfassen habe ich viel Zeit gebraucht, weil ich alles gut verstehen wollte. Vor allem bei Polymorphie habe ich länger gebraucht. Die Definitionen habe ich in ein Word-Dokument geschrieben. Für die Kapitel habe ich mit Gizmo AI Karteikarten erstellt, damit ich mich gut auf das Fachgespräch vorbereiten kann. Für Definitionen und allgemeine Fragen habe ich Claude benutzt.
+
 
 
 
