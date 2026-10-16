@@ -31,3 +31,4 @@
 - [ ]  
 
 ### Reflexion 
+Zuerst habe ich die Probeprüfung gemacht und alle Fragen markiert, die ich nicht verstanden habe. Danach habe ich versucht, diese Themen besser zu verstehen und mit Claude eine Zusammenfassung gemacht. Ich habe die Zusammenfassung durchgelesen und dazu verschiedene Videos geschaut. Anschliessend habe ich noch eine zweite Probeprüfung erstellt, um weiter zu üben. Heute habe ich ziemlich langsam gearbeitet, weil ich müde war und mich nicht so gut konzentrieren konnte. Trotzdem habe ich das Gefühl, dass ich viel gelernt habe. Ich habe auch gemerkt, welche Themen ich schon besser verstehe und was ich noch üben muss. Obwohl ich heute nicht so schnell vorangekommen bin, war das Lernen trotzdem hilfreich.
